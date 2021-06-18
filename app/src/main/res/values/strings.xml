@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="offline">You are offline, Check your network</string>
+    <string name="serverError">Server Error</string>
+    <string name="loading">Loading, Please Wait...</string>
+    <string name="search_for_an_article">Search for an article</string>
+    <string name="readArticleFromSource">Read article from source</string>
+
+</resources>
